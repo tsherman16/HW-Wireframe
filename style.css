@@ -4,6 +4,7 @@ body {
     background-color: #777;
     width: 960px;
     font-size: 18px;
+    margin: 0 auto;
 }
 
 Header, Nav, Section, Aside, Footer {
